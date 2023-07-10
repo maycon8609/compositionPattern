@@ -1,0 +1,14 @@
+input {
+  border: none;
+  color: #323232;
+  width: 100%;
+  margin: 0 8px;
+}
+
+input:focus-visible {
+  outline: none;
+}
+
+input::placeholder {
+  color: #565656;
+}
