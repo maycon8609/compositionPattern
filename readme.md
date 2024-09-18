@@ -25,7 +25,7 @@ The **Composition Pattern** is a way of building components in React (or other f
 
 ### Install dependencies
 ```bash
-npm run install
+npm install
 ```
 
 ### Run project
